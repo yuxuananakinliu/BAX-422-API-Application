@@ -2,7 +2,7 @@
 An API application course project
 
 Used APIs:
-* SkyScanner - https://developers.skyscanner.net
+* Amadeus - https://developers.amadeus.com/self-service
 * OpenWhether - https://openweathermap.org/api
 
 ### Proposal:

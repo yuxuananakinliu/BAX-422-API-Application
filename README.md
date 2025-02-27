@@ -13,3 +13,9 @@ Problems/Questions Solved:
   * (Use Skyscanner API to retrieve flight prices and compare options.)
 * What options do I have to rent a car at my destination?
   * (Use Skyscanner Car Hire Live Prices API to check rental car prices.)
+
+### DLC:
+Apply web scraping technique on:
+* **Wiki page:** The Wiki page provides a comprehensive list of airlines worldwide to extract airline details, such as their codes, countries of operation, and hub airports.
+
+* **Additional webpage:** Scraping real-time hotel reviews from <u>*Booking.com*</u> will allow the system to provide more detailed hotel recommendations, incorporating actual user feedback, ratings, and review sentiments. 

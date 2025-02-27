@@ -18,4 +18,4 @@ Problems/Questions Solved:
 Apply web scraping technique on:
 * **Wiki page:** The Wiki page provides a comprehensive list of airlines worldwide to extract airline details, such as their codes, countries of operation, and hub airports.
 
-* **Additional webpage:** Scraping real-time hotel reviews from <u>*Booking.com*</u> will allow the system to provide more detailed hotel recommendations, incorporating actual user feedback, ratings, and review sentiments. 
+* **Additional webpage:** Scraping real-time hotel reviews from *<u>Booking.com</u>* will allow the system to provide more detailed hotel recommendations, incorporating actual user feedback, ratings, and review sentiments. 

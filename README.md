@@ -1,5 +1,5 @@
-# BAX-422-API-Application
-An API application course project
+# BAX-422 API and Web Scraping Application
+--- An API application course project ---
 
 Used APIs:
 * Amadeus - https://developers.amadeus.com/self-service
@@ -14,8 +14,13 @@ Problems/Questions Solved:
 * What options do I have to rent a car at my destination?
   * (Use Skyscanner Car Hire Live Prices API to check rental car prices.)
 
+<br/>
+
 ### DLC:
 Apply web scraping technique on:
 * **Wiki page:** The Wiki page provides a comprehensive list of airlines worldwide to extract airline details, such as their codes, countries of operation, and hub airports.
 
-* **Additional webpage:** Scraping real-time hotel reviews from *<u>Booking.com</u>* will allow the system to provide more detailed hotel recommendations, incorporating actual user feedback, ratings, and review sentiments. 
+* **Additional webpage:** Scraping real-time hotel reviews from *<u>Booking.com</u>* will allow the system to provide more detailed hotel recommendations, incorporating actual user feedback, ratings, and review sentiments.
+
+Applied Web Scraping Denpendencies:
+* `selenium` - **Key Idea:** Open a monitered Chrome Window to bypass web scraper blocking.
